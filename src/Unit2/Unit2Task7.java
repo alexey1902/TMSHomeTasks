@@ -1,3 +1,5 @@
+package Unit2;
+
 public class Unit2Task7 {
     public static void main(String[] args) {
         int i = 1, sum = 0;

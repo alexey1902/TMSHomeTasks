@@ -1,3 +1,5 @@
+package Unit2;
+
 public class Unit2Task8 {
     public static void main(String[] args) {
         int k =3;
